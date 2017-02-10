@@ -1,4 +1,6 @@
-package ca.uwo.csd.cs2212.USERNAME;
+//package ca.uwo.csd.cs2212.USERNAME;
+
+import var.lib.jenkins.BankTest.lab5.src.main.java.BankAccount;
 
 import junit.framework.Assert;
 import org.junit.Before;
