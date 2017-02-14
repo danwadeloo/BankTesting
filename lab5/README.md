@@ -2,7 +2,7 @@ Continuous Integration with Jenkins on Amazon EC2
 =================================================
 ## changing again for git test
 ## Initial Setup
-#changing for test
+
 ## Fixing Locales in Ubuntu 13.04 on Amazon EC2
 
 ```bash
